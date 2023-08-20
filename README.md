@@ -1,11 +1,13 @@
-## Hello there 👋
-I'm **Melokye**
-Welcome to my page !
+# 👋 Hello World, I'm **Melokye**
 
+A French girl studying engineering in both art and science !
+
+## 🚧 My last projects
+
+- Creating a **course for freshman**  
+    The goal is to prepare them for their studies on  computing science at the Gustave Eiffel's university.
 
 <!--
-**melokye/melokye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,3 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## You can also find me on
+
+- [🦊 GitLab](https://gitlab.com/melokye)
+- [🎨 Instagram](https://www.instagram.com/melokye.crea/)
+
+## 🫶 Thanks for passing by
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V3N78R4)
