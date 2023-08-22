@@ -6,18 +6,18 @@ A French girl studying engineering in both art and science !
 
 - A **course for freshman**  
     The goal is to prepare them for their studies on computing science at the Gustave Eiffel's university.  
-    [👉 Access to the private repository](https://github.com/UGE-IGM/preRentree_L1_Support).
+    [👉 Access to the private repository](https://github.com/UGE-IGM/preRentree_L1_Support).  
+    ⚙️ `.md`, ``.ipynb``, ``.py``, `.c`, `.java`, ``.tex``
 
-- The visual novel **"The cursed mansion"**  
-    Created with [Yunnebia](https://github.com/Yunnebbia).  
-    [👉 Show me more](https://github.com/melokye/the_cursed_mansion)
+- *The cursed mansion*  
+    A **visual novel** created with [Yunnebia](https://github.com/Yunnebbia).  
+    [👉 Show me more](https://github.com/melokye/the_cursed_mansion)  
+    ⚙️ ``.rpy``
 
 - ...
 
 <!--
 Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,9 +25,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚙️ Tools and languages
+<!-- 
+## ⚙️ Other tools and languages
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melokye&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
+- 🐘 postgreSQL, Apache
+- 🐫 OCaml
+- 🅰️ Angular
+- MySQL
+- PHP
+- HTML, CSS, JavaScript
+- SGBD database, SQL, PL/pgSQL
+- 
+-->
+
+## 🎓 Education
+
+Degree                                           | Years
+----------------------------------------------   | --------------
+[Student-Entrepreneur National Status](https://www.pepite-france.fr/en/)                                             | 2021 - 2026
+[IMAC Engineer](https://www.ingenieur-imac.fr/)  | 2022 - 2025
+Bachelor degree in computer science              | 2019 - 2022
 
 ## 🔍 You can also find me on
 
