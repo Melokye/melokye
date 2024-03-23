@@ -5,16 +5,16 @@ A French girl studying engineering in both art and science !
 ## 🚧 My lastest projects
 
 - A **course for freshman**  
-    The goal is to prepare them for their studies on computing science at the Gustave Eiffel's university.  
-    [👉 Access to the private repository](https://github.com/UGE-IGM/preRentree_L1_Support).  
+    The goal is to prepare them for their studies on computing science at the Gustave Eiffel's university.
+<!--      [👉 Access to the private repository](https://github.com/UGE-IGM/preRentree_L1_Support).  -->
     ⚙️ `.md`, ``.ipynb``, ``.py``, `.c`, `.java`, ``.tex``
-
+<!--
 - *The cursed mansion*  
     A **visual novel** created with [Yunnebia](https://github.com/Yunnebbia).  
     [👉 Show me more](https://github.com/melokye/the_cursed_mansion)  
     ⚙️ ``.rpy``
-
-- ...
+-->
+- ... see more in my [website](https://melokye.github.io/)
 
 <!--
 Here are some ideas to get you started:
@@ -45,11 +45,6 @@ Degree                                           | Years
 [Student-Entrepreneur National Status](https://www.pepite-france.fr/en/)                                             | 2021 - 2026
 [IMAC Engineer](https://www.ingenieur-imac.fr/)  | 2022 - 2025
 Bachelor degree in computer science              | 2019 - 2022
-
-## 🔍 You can also find me on
-
-- [🦊 GitLab](https://gitlab.com/melokye)
-- [🎨 Instagram](https://www.instagram.com/melokye.crea/)
 
 ## 🫶 Thanks for passing by
 
