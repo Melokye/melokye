@@ -8,7 +8,7 @@ A French girl studying engineering in both art and science !
     The goal is to prepare them for their studies on computing science at the Gustave Eiffel's university.
 -->
 <!--      [👉 Access to the private repository](https://github.com/UGE-IGM/preRentree_L1_Support).  -->
-    ⚙️ `.md`, ``.ipynb``, ``.py``, `.c`, `.java`, ``.tex``
+<!--    ⚙️ `.md`, ``.ipynb``, ``.py``, `.c`, `.java`, ``.tex`` -->
 <!--
 - *The cursed mansion*  
     A **visual novel** created with [Yunnebia](https://github.com/Yunnebbia).  
